@@ -1,2 +1,2 @@
-# grpc-demo
-a grpc demo
+# rpc demo
+rpc demo
